@@ -1,0 +1,44 @@
+[
+    {
+        "id": "01",
+        "title": " ",
+        "subtittle": " İnek 1 ",
+        "recentwatchtime": " ",
+        "availableClassone": {
+            "title": " ",
+            "availablewatchtime": " "
+        },
+        "availableClasstwo": {
+            "title": " ",
+            "availablewatchtime": " "
+        }
+    },
+    {
+        "id": "01",
+        "title": " ",
+        "subtittle": " İnek 2 ",
+        "recentwatchtime": " ",
+        "availableClassone": {
+            "title": " ",
+            "availablewatchtime": " "
+        },
+        "availableClasstwo": {
+            "title": " ",
+            "availablewatchtime": " "
+        }
+    },
+    {
+        "id": "01",
+        "title": " ",
+        "subtittle": " İnek 3 ",
+        "recentwatchtime": " ",
+        "availableClassone": {
+            "title": " ",
+            "availablewatchtime": " "
+        },
+        "availableClasstwo": {
+            "title": " ",
+            "availablewatchtime": " "
+        }
+    }
+]
